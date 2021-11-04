@@ -1,0 +1,13 @@
+C:\Users\fayel\source\repos\ApplicationMedecin\bin\Debug\netcoreapp3.1\ApplicationMedecin.exe
+C:\Users\fayel\source\repos\ApplicationMedecin\bin\Debug\netcoreapp3.1\ApplicationMedecin.deps.json
+C:\Users\fayel\source\repos\ApplicationMedecin\bin\Debug\netcoreapp3.1\ApplicationMedecin.runtimeconfig.json
+C:\Users\fayel\source\repos\ApplicationMedecin\bin\Debug\netcoreapp3.1\ApplicationMedecin.runtimeconfig.dev.json
+C:\Users\fayel\source\repos\ApplicationMedecin\bin\Debug\netcoreapp3.1\ApplicationMedecin.dll
+C:\Users\fayel\source\repos\ApplicationMedecin\bin\Debug\netcoreapp3.1\ApplicationMedecin.pdb
+C:\Users\fayel\source\repos\ApplicationMedecin\obj\Debug\netcoreapp3.1\ApplicationMedecin.csprojAssemblyReference.cache
+C:\Users\fayel\source\repos\ApplicationMedecin\obj\Debug\netcoreapp3.1\ApplicationMedecin.AssemblyInfoInputs.cache
+C:\Users\fayel\source\repos\ApplicationMedecin\obj\Debug\netcoreapp3.1\ApplicationMedecin.AssemblyInfo.cs
+C:\Users\fayel\source\repos\ApplicationMedecin\obj\Debug\netcoreapp3.1\ApplicationMedecin.csproj.CoreCompileInputs.cache
+C:\Users\fayel\source\repos\ApplicationMedecin\obj\Debug\netcoreapp3.1\ApplicationMedecin.dll
+C:\Users\fayel\source\repos\ApplicationMedecin\obj\Debug\netcoreapp3.1\ApplicationMedecin.pdb
+C:\Users\fayel\source\repos\ApplicationMedecin\obj\Debug\netcoreapp3.1\ApplicationMedecin.genruntimeconfig.cache
